@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quinc\\OneDrive\\Desktop\\Saw-Whitebox\\Saw Game Proto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08DF7D42-F92A-66FA-2E31-707533BC8779}|Assembly-CSharp.csproj|c:\\users\\quinc\\onedrive\\desktop\\saw-whitebox\\saw game proto\\assets\\scripts\\grabsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DF7D42-F92A-66FA-2E31-707533BC8779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\grabsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DF7D42-F92A-66FA-2E31-707533BC8779}|Assembly-CSharp.csproj|c:\\users\\quinc\\onedrive\\desktop\\saw-whitebox\\saw game proto\\assets\\scripts\\pickableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DF7D42-F92A-66FA-2E31-707533BC8779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DF7D42-F92A-66FA-2E31-707533BC8779}|Assembly-CSharp.csproj|C:\\Users\\quinc\\OneDrive\\Desktop\\Saw-Whitebox\\Saw Game Proto\\assets\\scripts\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DF7D42-F92A-66FA-2E31-707533BC8779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DF7D42-F92A-66FA-2E31-707533BC8779}|Assembly-CSharp.csproj|C:\\Users\\quinc\\OneDrive\\Desktop\\Saw-Whitebox\\Saw Game Proto\\assets\\scripts\\firstpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DF7D42-F92A-66FA-2E31-707533BC8779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firstpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GrabSystem.cs",
+              "DocumentMoniker": "C:\\Users\\quinc\\OneDrive\\Desktop\\Saw-Whitebox\\Saw Game Proto\\Assets\\Scripts\\GrabSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GrabSystem.cs",
+              "ToolTip": "C:\\Users\\quinc\\OneDrive\\Desktop\\Saw-Whitebox\\Saw Game Proto\\Assets\\Scripts\\GrabSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GrabSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:38:32.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PickableItem.cs",
+              "DocumentMoniker": "C:\\Users\\quinc\\OneDrive\\Desktop\\Saw-Whitebox\\Saw Game Proto\\Assets\\Scripts\\PickableItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickableItem.cs",
+              "ToolTip": "C:\\Users\\quinc\\OneDrive\\Desktop\\Saw-Whitebox\\Saw Game Proto\\Assets\\Scripts\\PickableItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickableItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:19:06.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FirstPersonCamera.cs",
+              "DocumentMoniker": "C:\\Users\\quinc\\OneDrive\\Desktop\\Saw-Whitebox\\Saw Game Proto\\Assets\\Scripts\\FirstPersonCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FirstPersonCamera.cs",
+              "ToolTip": "C:\\Users\\quinc\\OneDrive\\Desktop\\Saw-Whitebox\\Saw Game Proto\\Assets\\Scripts\\FirstPersonCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FirstPersonCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:51:18.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\quinc\\OneDrive\\Desktop\\Saw-Whitebox\\Saw Game Proto\\Assets\\Scripts\\Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller.cs",
+              "ToolTip": "C:\\Users\\quinc\\OneDrive\\Desktop\\Saw-Whitebox\\Saw Game Proto\\Assets\\Scripts\\Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:41:16.675Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
